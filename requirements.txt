@@ -1,0 +1,9 @@
+flyai
+numpy
+opencv-python==4.4.0.44
+matplotlib
+scipy
+pillow
+pandas
+torch==1.4.0
+torchvision==0.5.0
